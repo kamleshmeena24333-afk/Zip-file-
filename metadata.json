@@ -1,0 +1,6 @@
+{
+  "name": "APK Maker",
+  "description": "Convert ZIP and HTML files into Android APK apps with live interactive preview, code editing, and direct installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
